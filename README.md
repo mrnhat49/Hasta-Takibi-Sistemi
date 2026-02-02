@@ -14,3 +14,5 @@ Bu proje, hastane veya ev ortamında kritik sıcaklık/nem takibi yapmak amacıy
 2. Python kütüphanelerini yükleyin:
    `pip install pyserial tk`
 3. `main.py` dosyasını çalıştırın.
+---
+*Geliştirici: Burak Esentürk*
